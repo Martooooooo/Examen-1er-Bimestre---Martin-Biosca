@@ -225,8 +225,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   entradaBasica: 3
   entradaNormal: 3
-  entradaPremium: 5
-  codigoEntrada: B
+  entradaPremium: 1
+  codigoEntrada: P
+  Agregado: 1
 --- !u!4 &1943968619
 Transform:
   m_ObjectHideFlags: 0
